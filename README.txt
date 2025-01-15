@@ -1,3 +1,5 @@
+Disclaimer: This project is in progress and is not necessarily ready for public use in its present state.
+
 Running BST_R:
 
 1. Edit "input choices.csv" to specify the scenario:
